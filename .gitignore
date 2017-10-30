@@ -5,6 +5,13 @@
 /tmp
 /out-tsc
 
+core/node_modules/
+core/docs/reference/
+core/docker_data/
+core/browser/bcoin*
+core/package-lock.json
+core/npm-debug.log
+
 # dependencies
 /node_modules
 
